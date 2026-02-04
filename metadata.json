@@ -2,6 +2,7 @@
   "name": "ZAMA By Virtuals",
   "symbol": "ZAMA",
   "description": "ZAMA token on Base Network",
-  "image": "https://raw.githubusercontent.com/koikoi128/zama-token/main/logo.png",
+  "image": "https://raw.githubusercontent.com/koikoi128/zama-token/main/zama.PNG.png"
+,
   "decimals": 18
 }
